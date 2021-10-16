@@ -1,0 +1,13 @@
+[Project 1] - BlockChainStore
+https://github.com/brakmic/BlockchainStore.git
+
+[Project 2] - MarketPlace-Dapp
+https://github.com/zalak13/MarketPlace-Dapp
+
+[Project 3] - Voting-DApp
+https://github.com/mohamedsgap/voting-dapp.git
+
+[Project 4] - Cryptown-dapp
+https://github.com/MrLouzao/Cryptown-dapp.git
+
+In builds folder, original and updated file exist
